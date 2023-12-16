@@ -1,2 +1,10 @@
 # back-integral-query-builder-with-CRUD
 back-integral-query-builder - API - with CRUD of users
+
+
+Exercicios 
+FAÇA UMA API COM UM CRUD DE USUARIOS 
+PARA TABELA DE USUARIOS SERA NECESSARIOS EXISTIR 
+APENAS OS CAMPOS ID , NOME ,EMAIL E SENHA 
+
+FAÇA UMA API BEM ORGANIZADA
